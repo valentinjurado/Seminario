@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Películas</string>
+    <string name="movies_title">Películas populares</string>
+    <string name="search_hint">Buscar una película</string>
+    <string name="rating_format">%1$.1f</string>
+    <string name="runtime_format">%1$d min</string>
+    <string name="overview_title">Sinopsis</string>
+    <string name="no_overview">No hay descripción disponible.</string>
+    <string name="share">Compartir</string>
+    <string name="share_text">Te recomiendo %1$s\n\n%2$s</string>
+    <string name="open_homepage">Página oficial</string>
+    <string name="retry">Reintentar</string>
+    <string name="error_no_internet">Sin conexión a internet. Revisá tu conexión e intentá de nuevo.</string>
+    <string name="error_server">No se pudo conectar con el servidor. Intentá de nuevo.</string>
+    <string name="error_token">Token de la API inválido. Configurá tu token de TMDB en TmdbConfig.</string>
+    <string name="error_unknown">Ocurrió un error inesperado. Intentá de nuevo.</string>
+    <string name="empty_results">No se encontraron películas para la búsqueda.</string>
+    <string name="movie_poster">Portada de la película</string>
+    <string name="back">Volver</string>
+    <string name="error_no_app">No hay aplicaciones disponibles para compartir</string>
+    <string name="error_no_browser">No hay un navegador disponible</string>
+</resources>

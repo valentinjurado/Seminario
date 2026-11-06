@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="movies_title">Popular movies</string>
+    <string name="search_hint">Search a movie</string>
+    <string name="rating_format">%1$.1f</string>
+    <string name="runtime_format">%1$d min</string>
+    <string name="overview_title">Overview</string>
+    <string name="no_overview">No description available.</string>
+    <string name="share">Share</string>
+    <string name="share_text">I recommend you %1$s\n\n%2$s</string>
+    <string name="open_homepage">Official site</string>
+    <string name="retry">Retry</string>
+    <string name="error_no_internet">No internet connection. Check your connection and try again.</string>
+    <string name="error_server">Could not connect to the server. Please try again.</string>
+    <string name="error_token">Invalid API token. Set your TMDB token in TmdbConfig.</string>
+    <string name="error_unknown">An unexpected error occurred. Please try again.</string>
+    <string name="empty_results">No results found for your search.</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="back">Back</string>
+    <string name="error_no_app">There is no app available to share</string>
+    <string name="error_no_browser">There is no browser available</string>
+</resources>

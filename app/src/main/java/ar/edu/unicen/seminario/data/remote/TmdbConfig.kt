@@ -1,0 +1,5 @@
+package ar.edu.unicen.seminario.data.remote
+
+object TmdbConfig {
+    const val TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYzc1MGZmY2FlMWI3ZmRlZjhiNzcwMTlmNTA1OGRhNCIsIm5iZiI6MTc5MTc2Mjk3NS4zOTEsInN1YiI6IjZhY2MyMjFmOTgxMDUzMzZiMzFjNzM3MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.W-paXGYAXFBaDAHIHrX4p4_oySV3NgI-T0urVBKHC6k"
+}
